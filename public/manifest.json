@@ -1,6 +1,6 @@
 {
-  "name": "PWA App",
-  "short_name": "App",
+  "name": "Dargo Life Tracker",
+  "short_name": "Dargo",
   "icons": [
     {
       "src": "/icons/android-chrome-192x192.png",
@@ -22,6 +22,5 @@
   "theme_color": "#FFFFFF",
   "background_color": "#FFFFFF",
   "start_url": "/",
-  "display": "fullscreen",
-  "orientation": "landscape"
+  "display": "fullscreen"
 }
